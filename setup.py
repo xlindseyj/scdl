@@ -16,7 +16,7 @@ setup(
     version=scdl.__version__,
     packages=find_packages(),
     include_package_data=True,
-    author="FlyinGrub",
+    author="FlyinGrub & xlindseyj",
     author_email="flyinggrub@gmail.com",
     description="Download Music from Souncloud",
     long_description=long_description,
@@ -30,7 +30,7 @@ setup(
         "pathvalidate",
         "soundcloud-v2>=1.3.7"
     ],
-    url="https://github.com/flyingrub/scdl",
+    url="https://github.com/xlindseyj/scdl",
     classifiers=[
         "Programming Language :: Python",
         "Development Status :: 5 - Production/Stable",
